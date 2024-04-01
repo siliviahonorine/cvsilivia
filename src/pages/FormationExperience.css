@@ -1,0 +1,17 @@
+.grid-item , .grid-item p{
+    border-bottom: var(--spacing-1);
+}
+.grid-date{
+   font-weight: 500px;
+}
+.grid-date{
+margin-bottom: 0;
+}
+.grid-location{
+   font-weight: 300px;
+   color:var(--date-color);
+   
+
+    
+    }
+ 

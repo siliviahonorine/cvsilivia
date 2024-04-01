@@ -1,0 +1,16 @@
+.Skills{
+    margin: var(--spacing-3) 0;
+}
+.Skill{
+    display: flex;
+  
+   
+}
+.Interests{
+    align-items: center;
+    display: none;
+}
+.Interests svg{
+margin: var(--spacing-1);
+
+}

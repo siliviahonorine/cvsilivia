@@ -1,0 +1,26 @@
+
+.User{
+    text-align: center;
+
+}
+
+.User_avatar{
+    border-radius: 50%;
+        box-shadow: 0 0 0 2px #36dd, 0 0 0 4px #36dd,0 0 0 6px #36dd;
+    
+
+    
+}
+.user_infos{
+    text-align: left;
+    padding: var(--spacing-3) 0 var(--spacing-1) 0;
+
+}
+.user_info{
+display: flex;
+color:#36dd ;
+    
+}
+.user_info svg{
+margin-right: 1rem;
+}
